@@ -11,10 +11,9 @@ A beautiful, responsive Weather App built using **HTML, CSS, and JavaScript**, f
 ---
 
 ## 🚀 Demo  
-Live Site: **https://your-netlify-url.netlify.app**  
+Live Site: **https://skycast-weathers-app.netlify.app/**  
 GitHub Repo: **https://github.com/sharanligade/weather-app**
 
-*(Replace these with your actual links)*
 
 ---
 
@@ -26,5 +25,5 @@ GitHub Repo: **https://github.com/sharanligade/weather-app**
 <img width="1902" height="891" alt="Screenshot 2025-12-09 142209" src="https://github.com/user-attachments/assets/e4bee405-8e1b-42c7-ab70-9548342b4800" />
 
 
-Example:
+
 
